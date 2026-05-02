@@ -1,4 +1,4 @@
-# Curtin Handbook Unit Scraper (CHUS)
+# Uni Handbook Unit Scraper (UHUS)
 A program that can help you retrieve data from Curtin Handbook. These data primarily concerns itself with the information of units, e.g. number of credits, field of education, prerequisites, etc. 
 ## Why CHUS?
 My course at Curtin University allows me to pick two elective units for my second year. Given the plethora of units available and not knowing anyone that can recommend me some units, I have decided to give the [Curtin Handbook](https://handbook.curtin.edu.au/) a try.
