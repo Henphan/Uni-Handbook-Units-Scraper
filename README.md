@@ -1,0 +1,8 @@
+# Curtin Handbook Unit Scraper (CHUS)
+A program that can help you retrieve data from Curtin Handbook. These data primarily concerns itself with the information of units, e.g. number of credits, field of education, prerequisites, etc. 
+## Why CHUS?
+My course at Curtin University allows me to pick two elective units for my second year. Given the plethora of units available and not knowing anyone that can recommend me some units, I have decided to give the [Curtin Handbook](https://handbook.curtin.edu.au/) a try.
+
+I would soon realise, how inefficient and lackluster the current search engine is. As of May 2, 2026, there is no system in place to help you find units based on a specific field, level, credits, or area of education. For instance, when I typed "Artificial Intelligence" into the search, it returned me with units that had "Artificial Intelligence" in the name, but they would all be postgraduate units or units in a non-related field. It certainly did not return me with COMP3007 or COMP2009, which are "Machine Perception" and "Intelligent Agents", respectively. These units both fall under the "Field of Education" of "020119 Artificial Intelligence", but they were never returned to me.
+
+Thinking to myself how much easier would it be if I had a list of all the units as a CSV, which I can simply control+f to find keywords within the units. Turns out, none exists, and the closest one I have gotten is provided to me by my course BAdvSci, which only covers part of the possible units. Hence, I have taken it to myself to create a program which can allow the users to type in general keywords and find units that somewhat correlates with them.
